@@ -1,0 +1,42 @@
+=== Выбор поезда, вагона и мест
+* Если необходимо, отсортируйте рейсы с помощью вкладок "По времени отправления", "По времени прибытия", "По стоимости", "По времени в пути".
+
+.Сортировка 
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::sorting.png[]
+
+* Ознакомьтесь с наличием мест и стоимостью, выберите рейс с подходящим временем, нажмите на карточку.
+
+.Выбор рейса и времени
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::clicking on the card.png[]
+
+* Выберите тип вагона, нажмите кнопку "Продолжить".
+
+.Выбор типа вагона
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::choosing the type of car.png[]
+
+* Выберите номер вагона и место, нажмите кнопку "Продолжить".
+
+.Выбор вагона и места
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::choosing a place.png[]
+
+* Выберите пассажира из списка или добавьте нового пассажира. 
+
+.Выбор или добавление пассажира
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::passenger's choice.png[]
+
+* Если необходимо, поставьте галочки в полях "Оплатить постельное бельё" и "Добавить ребёнка без занятия места". 
+
+.Оплата постельного белья, добавление ребенка
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::bed linen.png[]
+
+* Если необходимо, укажите информацию в графах "Льготный проезд и ВТТ", "Проездная карта", "РЖД Бонус", "Если пассажир медработник", "Скидки", нажмите кнопку "Оформить заказ".
+
+.Дополнительные данные пассажира
+:imagesdir: https://raw.githubusercontent.com/MaxKam1989/rzd_manual/master/rzd_pictures
+image::preferential travel.png[]
