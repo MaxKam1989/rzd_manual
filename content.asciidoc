@@ -1,0 +1,16 @@
+
+:toc:
+:toc-title: Покупка билета на сайте РЖД
+
+:includedir: https://github.com/MaxKam1989/rzd_manual/blob/master/Manual/
+include::choosing_the_date_and_direction.asciidoc[]
+
+
+:includedir: https://github.com/MaxKam1989/rzd_manual/blob/master/Manual/
+include::choice_of_train_carriage_and_seats.asciidoc[]
+
+:includedir: https://github.com/MaxKam1989/rzd_manual/blob/master/Manual/
+include::adding_a_new_passenger.asciidoc[]
+
+:includedir: https://github.com/MaxKam1989/rzd_manual/blob/master/Manual/
+include::ticket_payment.asciidoc[]
